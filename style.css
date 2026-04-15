@@ -37,7 +37,7 @@ nav a {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 section {
@@ -49,6 +49,7 @@ section {
 
 .hero {
     min-height: 900px;
+    background-color: white;
 
 }
 
@@ -61,6 +62,10 @@ section {
 
 .imgpremierbloc {
     width: 265px;
+}
+
+.imgdeuxiemebloc {
+    width: 334px;
 }
 
 .premierbloc {
@@ -78,4 +83,64 @@ section {
 
 .titrepremierbloc {
     margin-bottom: 20px;
+}
+
+.deuxiemebloc {
+    text-align: justify;
+    text-align: center;
+}
+
+.alignementun {
+    position: relative;
+    top: 221px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.troisiemebloc {
+    text-align: justify;
+    text-align: center;
+}
+
+.titretroisiemebloc {
+    margin-bottom: 20px;
+}
+
+.pgtroisiemebloc {
+    margin-bottom: 20px;
+}
+
+.projets {
+    color: #A16C33;
+    font-size: 33px;
+    position: relative;
+    top: 58px;
+}
+
+.section-deux {
+    background-color: black;
+    min-height: 3000px;
+    width: auto;
+}
+
+.text-section-deux {
+    color: white;
+}
+
+.image-un-section-deux {
+    width: 700px;
+}
+
+.bloc-un-section-deux {
+    position: relative;
+    top: 119px;
+}
+
+.haussman {
+    margin-bottom: 20px;
+}
+
+.paragraphe-un {
+    margin-bottom: 30px;
+    
 }
