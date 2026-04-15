@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+
+header {
+    background-image:url(../../../Downloads/23910.jpg) ;
+    color: white;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav {
+    margin: 16px;
+    height: 30px;
+    font-size: 18px;
+    margin-right: 21px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin: 32px;
+}
+
+.imghead {
+    width: 160px;
+}
+
+.divheader {
+    display: flex;
+    justify-content: space-between;
+    padding: 34px;
+    padding-bottom: 77px;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+section {
+    margin: auto;
+    text-align: center;
+    width: 755px;
+
+}
+
+.hero {
+    min-height: 900px;
+
+}
+
+.titreprestation {
+    font-size: 33px;
+    position: relative;
+    top: 58px;
+    color: #A16C33;
+}
+
+.imgpremierbloc {
+    width: 265px;
+}
+
+.premierbloc {
+    text-align: justify;
+    display: flex;
+    position: relative;
+    top: 150px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.pgpremierbloc {
+    margin: 0;
+}
+
+.titrepremierbloc {
+    margin-bottom: 20px;
+}
